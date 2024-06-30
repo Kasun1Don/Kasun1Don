@@ -2,7 +2,7 @@
 
 I'm an emerging junior software developer with a background in software sales. I aspire to bring my industry experience and coding skills together to build software that empowers users to be more productive.
 
-Currently completing studies. Graduation: September 2024.
+Graduation: September 2024.
 
 🌱 Currently developing a Flask API following REST conventions & PostgreSQL data base. 
 
