@@ -4,7 +4,7 @@ I'm an emerging junior software developer with a background in software sales. I
 
 Graduation: September 2024.
 
-🌱 Currently developing a Flask API following REST conventions & PostgreSQL data base. 
+🌱 Currently developing a MERN stack Web application for a boxing gym's class booking and sign up system.
 
 ### Languages and Frameworks
 
