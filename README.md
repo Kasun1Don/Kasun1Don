@@ -4,7 +4,8 @@ I'm an emerging junior software developer with a background in software sales. I
 
 Graduation: September 2024.
 
-🌱 Currently developing a MERN stack Web application for a boxing gym's class booking and sign up system.
+🌱 Currently developing FightTrack, a MERN stack Web application for boxing gym owners to manage class bookings and sign ups. Check it out @ fighttrack.xyz
+
 
 ### Languages and Frameworks
 
