@@ -2,9 +2,9 @@
 
 I'm an emerging junior software developer with a background in software sales. I aspire to bring my industry experience and coding skills together to build software that empowers users to be more productive.
 
-Graduation: September 2024.
+🚀 Currently interning at LABRYS as a Software Engineer.
 
-🌱 Currently developing FightTrack, a MERN stack Web application for boxing gym owners to manage class bookings and sign ups. Check it out @ fighttrack.xyz
+🌱 Final project: FightTrack, a MERN stack Web application for boxing gym owners to manage class bookings and sign ups. Check it out @ fighttrack.xyz
 
 
 ### Languages and Frameworks
