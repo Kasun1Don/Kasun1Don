@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-I'm an junior Software Engineer with a background in enterprise software sales. I aspire to bring my experience talking to users and software engineering skills together to build tools that improve productivity and user experience.
+I'm Software Engineer with a background in enterprise software sales. I aspire to bring my experience talking to users and software engineering skills together to build tools that improve productivity and user experience.
 
-💼 Software Engineer @ LABRYS\
+💼 Software Engineer @ LABRYS (Web3 Software Engineering)\
 |\
 |\
 👨🏽‍🔧 Interned @ LABRYS => Checkout our web3(thirdweb) Project Management tool @ pumptask.xyz 
 
-📚 Final project: FightTrack, a MERN stack Web application for boxing gym owners to manage class bookings and sign ups. Check it out @ fighttrack.xyz
+📚 Final student project: FightTrack, a MERN stack Web application for boxing gym owners to manage class bookings and sign ups. Check it out @ fighttrack.xyz
 
 
 ### Languages and Frameworks
