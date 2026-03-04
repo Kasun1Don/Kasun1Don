@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Software Engineer with a background in enterprise software sales. I aspire to bring my experience talking to users and software engineering skills together to build tools that improve productivity and user experience.
+I'm Software Engineer with a background in enterprise software sales. I aspire to bring my experience talking to users and software engineering skills together to build tools that improve productivity and great user / agent experience.
 
 💼 Software Engineer @ LABRYS (Web3 Software Engineering)\
 |\
