@@ -2,7 +2,8 @@
 
 I'm Full Stack Software Engineer with a background in enterprise software sales.
 
-💼 Software Engineer @ LABRYS (Web3 & AI Applications)\
+💼 Software Engineer @ LABRYS (Web3 & AI Applications) e.g. [Hashlock's AI Audit Tool](https://linkedin.com/pulse/building-labrys-hashlocks-ai-audit-tool-labrys-io-yu4ne/)
+|\
 |\
 |\
 👨🏽‍🔧 Interned @ LABRYS => Checkout our intern project, a Project Management platform with web3 rewards @ [pumptask.xyz](https://pump-task-dev.vercel.app/) 
