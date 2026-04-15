@@ -1,6 +1,4 @@
-## Hi there 👋
-
-🔗 My Portfolio &rarr; [t0ken.dev](https://t0ken.dev)
+## Hi there 👋  my portfolio 🔗 &rarr; [t0ken.dev](https://t0ken.dev)
 
 I'm Full Stack Software Engineer with a background in enterprise software sales.
 
