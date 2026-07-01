@@ -9,6 +9,7 @@ I'm Full Stack Software Engineer with a background in enterprise software sales.
 
 📚 Final student project: FightTrack, a MERN stack Web application for boxing gym owners to manage class bookings and sign ups. 
 
+🔓 Open source contributor and supporter, with a current focus on Hermes and OpenClaw, pushing the capabilities of these tools for enterprise adoption.
 
 ### Languages and Frameworks
 
