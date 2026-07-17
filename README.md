@@ -1,8 +1,8 @@
 ## Hi there 👋  my portfolio 🔗 &rarr; [t0ken.dev](https://t0ken.dev)
 
-I'm Full Stack Software Engineer with a background in enterprise software sales.
+I'm a Full Stack AI Software Engineer with a background in enterprise software sales.
 
-💼 Software Engineer @ LABRYS (Web3 & AI Applications)\
+💼 Full Stack AI Software Engineer @ [NGU AI](https://github.com/NGU-AI) (AI software development using Mastra & Inngest)\
 |\
 |\
 👨🏽‍🔧 Interned @ LABRYS => Checkout our intern project, a Project Management platform with web3 rewards @ [pumptask.xyz](https://pump-task-dev.vercel.app/) 
