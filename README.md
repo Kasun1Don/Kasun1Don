@@ -8,7 +8,8 @@ I'm a Full Stack AI Software Engineer with a background in enterprise software s
 💼 Software Engineer @ LABRYS (Web3 & AI Applications)\
 |\
 |\
-👨🏽‍🔧 Interned @ LABRYS => Checkout our intern project, a Project Management platform with web3 rewards @ [pumptask.xyz](https://pump-task-dev.vercel.app/) 
+👨🏽‍🔧 1 of 6 Interns @ LABRYS in 2024 => Checkout our intern project, a Project Management platform with web3 rewards @ [pumptask.xyz](https://pump-task-dev.vercel.app/)\
+(2/6 interns made it through technical interview at the end of internship)
 
 📚 Final student project: FightTrack, a MERN stack Web application for boxing gym owners to manage class bookings and sign ups. 
 
