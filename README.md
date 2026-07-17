@@ -5,6 +5,9 @@ I'm a Full Stack AI Software Engineer with a background in enterprise software s
 💼 Full Stack AI Software Engineer @ [NGU AI](https://github.com/NGU-AI) (AI software development using Mastra & Inngest)\
 |\
 |\
+💼 Software Engineer @ LABRYS (Web3 & AI Applications)\
+|\
+|\
 👨🏽‍🔧 Interned @ LABRYS => Checkout our intern project, a Project Management platform with web3 rewards @ [pumptask.xyz](https://pump-task-dev.vercel.app/) 
 
 📚 Final student project: FightTrack, a MERN stack Web application for boxing gym owners to manage class bookings and sign ups. 
